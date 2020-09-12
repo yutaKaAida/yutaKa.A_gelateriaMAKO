@@ -445,10 +445,10 @@ footer {
 .fv_sentence {
   width: 100%;
   box-sizing: border-box;
-  padding: 20px 0 0 30px;
-  font-size: 20px;
-}
-
+  padding: 4vw 0;
+  font-size: 4vw;
+  margin: 0 auto;
+ }
 
 
 .header {
